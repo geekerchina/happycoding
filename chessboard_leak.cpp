@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+//author liuhm09 2014/04/19/00:39:14
 using namespace std;
 int main(int argc, char const *argv[])
 {
